@@ -52,7 +52,7 @@ ecommerce-sales-analysis/
 ├── sql/
 │   └── ecommerce_analysis.sql     ← 15+ SQL queries
 │
-├── ecommerce_eda.py               ← Python EDA + visualizations
+├── ecommerce_eda.ipynb            ← Python EDA + visualizations
 │
 ├── docs/
 │   ├── ecommerce_dashboard.png    ← Executive dashboard
